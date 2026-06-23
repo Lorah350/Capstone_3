@@ -1,5 +1,5 @@
 # Capstone_3
-For this capstone project, I analyzed four years of sales data from EmporiUm, a virtual student bookstore that operates both online and through physical retail locations. The goal of this project was to understand sales performance across time, product categories, and states within my assigned region. I also identified the top‑selling general‑audience books and their authors to support regional sales strategy.
+For this capstone project, I analyzed four years of sales data from EmporiUm, a virtual student bookstore that operates both online and through physical retail locations. The goal of this project was to understand sales performance across time, product categories, and states within my assigned region (West). I also identified the top‑selling general‑audience books and their authors to support regional sales strategy.
 
 This analysis helps EmporiUm’s leadership team make informed decisions about inventory, marketing, and regional operations
 
