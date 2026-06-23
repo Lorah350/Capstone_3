@@ -5,7 +5,6 @@ For this capstone project, I analyzed four years of sales data from EmporiUm, a 
 
 This analysis helps EmporiUm’s leadership team make informed decisions about inventory, marketing, and regional operations
 
-What l Did
 I used Power BI to import, clean, and transform the dataset. Through Power Query, I standardized data types, removed inconsistencies, and prepared the dataset for analysis. I then built a structured star‑schema data model to ensure accurate relationships and efficient reporting.
 
 Using this model, I developed a multi‑page interactive Power BI report that includes:
@@ -20,7 +19,7 @@ A table highlighting top‑selling general‑audience books and their authors
 
 Each visual was designed to provide clear insights and support strategic decision‑making across the regional management team
 
- Tools Used
+ Tools Used include
 Power BI Desktop
 
 Power Query
