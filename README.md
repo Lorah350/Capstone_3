@@ -27,4 +27,4 @@ DAX
 GitHub
 
 Video Presentation
-Video Link: Add your video link here
+Video Link:  Video link
