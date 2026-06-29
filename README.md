@@ -27,4 +27,5 @@ DAX
 GitHub
 
 Video Presentation
-Video Link:  https://sammyoracle14/
+Video Link:  [Click here to watch my Capstone 3 video](https://1drv.ms/v/c/492696d822e46906/IQBnux098687TqfxIYqY2535AXVyhG4AAwJlo5MEVwY-PjA?e=mevrkj)
+
